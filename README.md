@@ -9,7 +9,7 @@ Coding isn't just a job for me—it's a deep-seated addiction fueled by passion.
 I'm always eager to collaborate and explore new opportunities for growth. Whether it's contributing to open-source projects or joining forces on exciting ventures, I'm ready to dive in and make an impact.
 
 ### Get in Touch
-📧 Email: umeshparukekar@gmail.com
+📧 Email: sarthakdev143.official@gmail.com
 
 Let's connect, collaborate, and build something amazing together!
 
