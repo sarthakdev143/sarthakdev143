@@ -6,7 +6,7 @@ Hello! I'm Sarthak, a full-stack developer with a special love 💖 for frontend
 
 - **Languages & Frameworks:**
   - **Java** 🔱
-  - **Spring** 💚
+  - **Springboot** 💚
   - **Thymeleaf** 🍏
   - **React** 💙
 
