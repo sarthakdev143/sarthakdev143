@@ -5,7 +5,8 @@ Hello! I'm Sarthak, a 16 y/o certified full-stack developer. I thrive on creatin
 ## Tech Stack
   - **Java** 🔱
   - **Springboot** 💚
-  - **React** 💙
+  - **HTML, CSS, JS, React** 💙
+  - **MongoDB, Oracle** 🧡
 
 ## Open Source & Collaboration
 
