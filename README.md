@@ -1,10 +1,8 @@
-# 🗿 Passionate Full-Stack Developer
+# 🗿 Passionate Certified Full-Stack Developer
 
-Hello! I'm Sarthak, a full-stack developer with a special love 💖 for frontend development. "Believe me, I'll be the Greatest Web Cloner You Have Ever Seen in The History". I thrive on creating seamless, interactive, and user-friendly interfaces.
+Hello! I'm Sarthak, a 16 y/o certified full-stack developer. I thrive on creating responsive, interactive, and user-friendly interfaces.
 
 ## Tech Stack
-
-- **Languages & Frameworks:**
   - **Java** 🔱
   - **Springboot** 💚
   - **React** 💙
