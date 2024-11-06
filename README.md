@@ -18,4 +18,4 @@ Hello! I'm Sarthak, a 16 y/o certified full-stack developer. I thrive on creatin
 
 📧 **Email:** [sarthakdev143.official@gmail.com](mailto:sarthakdev143.official@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=sarthakdev143-lite&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sarthakdev143&abbreviated=true)
