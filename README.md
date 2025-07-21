@@ -1,6 +1,6 @@
 # 🗿 Passionate Certified Full-Stack Developer
 
-Hello! I'm Sarthak, a 16 y/o certified full-stack developer. I thrive on creating responsive, pixel-perfect & robust applications.
+Hello! I'm Sarthak, a 17 y/o certified full-stack developer. I thrive on creating responsive, pixel-perfect & robust applications.
 
 ## Tech Stack
   - **Java** 🔱
