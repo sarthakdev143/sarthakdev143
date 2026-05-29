@@ -1,6 +1,6 @@
 ### Hey, I'm Sarthak 👋
 
-17y/o. Full-stack developer from Indore, India. Been building since before Class 10. 
+18y/o. Full-stack developer from Indore, India. Been building since before Class 10. 
 
 I build fast, think in systems, and actively use LLMs to accelerate development scaffolding, boilerplate, architecture iteration while staying in control of what actually ships.
 
